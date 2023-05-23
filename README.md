@@ -1,8 +1,6 @@
 # Anycubic-Photon-D2
 
-Hallo zusammen
-am Wochenende schreibe ich mal die Anleitung zusammen, bis dahin schon mal die Basisparameter für das vorhandene und bestellte Resin:<br>
-
+## Basisparameter für das Anycubic Basic UV Resin<br>
 Resin: Anycubic colored UV Resin Basic<br>
 Layer Height: 0,05mm<br>
 Exposure Time: 2,8sec<br>
