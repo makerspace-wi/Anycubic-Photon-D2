@@ -1,4 +1,9 @@
-# Anycubic-Photon-D2
+# Anycubic-Photon-D2<br>
+<br>
+## Sicherheitshinweise<br>
+- die Harze können Hautirritationen verursachen daher wird das Tragen von Einweghandschuhen empfohlen
+- es wird das Tragen einer Schutzbrille beim Einfüllen von Flüssigkeiten (Harz oder Isopropanol) empfohlen
+- 
 
 ## Basisparameter für das Anycubic Basic UV Resin<br>
 Resin: Anycubic colored UV Resin Basic<br>
@@ -17,7 +22,7 @@ Vorhanden ist grau, bestellt habe ich schwarz/weiß/transparent/ grau<br>
 
 # Vorhanden Geräte
 Foto 1<br>
-links das Gerät mit der gelben Abdeckung ist zum reinigen (anhaftende Resinreste werden mit Isopropanol entfernt) und nachträglichem Härten mit UV-Licht<br>
+links das Gerät mit der gelben Abdeckhaube ist zum reinigen (anhaftende Resinreste werden mit Isopropanol entfernt) und nachträglichem Härten mit UV-Licht<br>
 rechts das Gerät ist der eigentliche Drucker<br>
 
 Foto 2<br>
