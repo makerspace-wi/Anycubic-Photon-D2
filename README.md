@@ -15,13 +15,13 @@ rechts das Gerät ist der eigentliche Drucker<br>
 
 
 ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/92d574fc-f1d7-408b-8994-8d4bbd0884aa)
-
+<br>
 ## Technische Daten
-<b>Anycubic Photon D2 Drucker<b>
+<b>Anycubic Photon D2 Drucker<b><br>
   Bauvolumen: 131mm x 165mm x 73mm <br>
   Dateninput: USB-A 2.0 (USB Stick) <br>
   Wellenlänge: 405nm <br>
-  
+<br>  
 
 
 
