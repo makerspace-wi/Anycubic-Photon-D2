@@ -14,7 +14,9 @@ links das Gerät mit der gelben Abdeckhaube ist zum reinigen (anhaftende Resinre
 rechts das Gerät ist der eigentliche Drucker<br>
 
 
-Foto 2<br>
+![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/92d574fc-f1d7-408b-8994-8d4bbd0884aa)
+
+## Bedienung Anycubic Photon D-2 Drucker
 
 auf der rechten Seite sind der Hauptschalter und der USB-Slot. Die Daten für den Drucker werden per USB übertragen<br>
 vorne befindet sich das Bedienpanel (Touchpanel)<br>
