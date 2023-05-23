@@ -6,9 +6,12 @@
 - 
 
 ## Vorhanden Geräte
-Foto 1<br>
 links das Gerät mit der gelben Abdeckhaube ist zum reinigen (anhaftende Resinreste werden mit Isopropanol entfernt) und nachträglichem Härten mit UV-Licht<br>
+<br>
+![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/40451d68-a8c7-46c5-a4a3-ec7395035126)
+
 rechts das Gerät ist der eigentliche Drucker<br>
+
 
 Foto 2<br>
 
