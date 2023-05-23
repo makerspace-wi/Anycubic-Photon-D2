@@ -19,6 +19,7 @@ Foto 3<br>
 Die Aufnahmeplatte für die Drucke besteht aus einer gelaserten Stahlplatte die mit der Rändelschraube befestigt und gelöst werden kann. Mit den seitlichen 4 Schrauben wird die Aufnahmeplatte auf <br> den Druckerboden ausgerichtet. Bitte nicht ohne Not an diesen Schrauben drehen, sondern die Platte immer nur mit der Rändelschraube lösen und entnehmen.<br>
 Der Resintank wird mit den beiden seitlichen Rändelschrauben fixiert und gelöst. Bitte äußerst vorschichtig lösen, der Boden des Tanks besteht aus einer empfindlichen gespannten Kunststofffolie.<br>
 
+![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/b149ef07-d323-48e3-92ec-14af9ff6e095)
 
 
 
