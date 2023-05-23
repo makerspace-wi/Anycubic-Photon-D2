@@ -16,7 +16,20 @@ rechts das Gerät ist der eigentliche Drucker<br>
 
 ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/92d574fc-f1d7-408b-8994-8d4bbd0884aa)
 
-## Bedienung Anycubic Photon D-2 Drucker
+## Technische Daten
+<b>Anycubic Photon D2 Drucker<b>
+  Bauvolumen: 131mm x 165mm x 73mm <br>
+  Dateninput: USB-A 2.0 (USB Stick) <br>
+  Wellenlänge: 405nm <br>
+  
+
+
+
+
+
+## Bedienung Anycubic Photon D-2 Drucker<br>
+  ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/61efd051-8454-4328-b8f5-ef0882300e90)
+
 
 auf der rechten Seite sind der Hauptschalter und der USB-Slot. Die Daten für den Drucker werden per USB übertragen<br>
 vorne befindet sich das Bedienpanel (Touchpanel)<br>
