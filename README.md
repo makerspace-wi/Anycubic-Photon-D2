@@ -17,3 +17,19 @@ Surface Frosted: x<br>
 <br>
 Vorhanden ist grau, bestellt habe ich schwarz/weiß/transparent/ grau<br>
 
+# Vorhanden Geräte
+Foto 1<br>
+links das Gerät mit der gelben Abdeckung ist zum reinigen (anhaftende Resinreste werden mit Isopropanol entfernt) und nachträglichem Härten mit UV-Licht<br>
+rechts das Gerät ist der eigentliche Drucker<br>
+
+Foto 2<br>
+
+auf der rechten Seite sind der Hauptschalter und der USB-Slot. Die Daten für den Drucker werden per USB übertragen<br>
+vorne befindet sich das Bedienpanel (Touchpanel)<br>
+
+Foto 3<br>
+Die Aufnahmeplatte für die Drucke besteht aus einer gelaserten Stahlplatte die mit der Rändelschraube befestigt und gelöst werden kann. Mit den seitlichen 4 Schrauben wird die Aufnahmeplatte auf <br> den Druckerboden ausgerichtet. Bitte nicht ohne Not an diesen Schrauben drehen, sondern die Platte immer nur mit der Rändelschraube lösen und entnehmen.<br>
+Der Resintank wird mit den beiden seitlichen Rändelschrauben fixiert und gelöst. Bitte äußerst vorschichtig lösen, der Boden des Tanks besteht aus einer empfindlichen gespannten Kunststofffolie.<br>
+
+
+
