@@ -28,17 +28,15 @@ rechts das Gerät ist der eigentliche Drucker<br>
 
 
 ## Bedienung Anycubic Photon D-2 Drucker<br>
-  ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/61efd051-8454-4328-b8f5-ef0882300e90)
-
-
-auf der rechten Seite sind der Hauptschalter und der USB-Slot. Die Daten für den Drucker werden per USB übertragen<br>
+  <br>
+Auf der rechten Seite sind der Hauptschalter und der USB-Slot. Die Daten für den Drucker werden per USB übertragen<br>
 vorne befindet sich das Bedienpanel (Touchpanel)<br>
+<br>
+Das Druckbett besteht aus einer gelaserten Stahlplatte die mit der Rändelschraube befestigt und gelöst werden kann. Mit den seitlichen 4 Schrauben wird die Aufnahmeplatte auf den Druckerboden ausgerichtet. Bitte nicht ohne Not an diesen Schrauben drehen, sondern das Druckbett immer nur mit der Rändelschraube lösen und entnehmen.<br>
+Der Resin-Tank wird mit den beiden seitlichen Rändelschrauben fixiert und gelöst. Bitte äußerst vorschichtig lösen, der Boden des Tanks besteht aus einer empfindlichen gespannten Kunststofffolie.<br>
 
-Foto 3<br>
-Die Aufnahmeplatte für die Drucke besteht aus einer gelaserten Stahlplatte die mit der Rändelschraube befestigt und gelöst werden kann. Mit den seitlichen 4 Schrauben wird die Aufnahmeplatte auf <br> den Druckerboden ausgerichtet. Bitte nicht ohne Not an diesen Schrauben drehen, sondern die Platte immer nur mit der Rändelschraube lösen und entnehmen.<br>
-Der Resintank wird mit den beiden seitlichen Rändelschrauben fixiert und gelöst. Bitte äußerst vorschichtig lösen, der Boden des Tanks besteht aus einer empfindlichen gespannten Kunststofffolie.<br>
+![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/8564bbf8-2598-436a-9f87-0dad66c61348)
 
-![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/b149ef07-d323-48e3-92ec-14af9ff6e095)
 
 
 
