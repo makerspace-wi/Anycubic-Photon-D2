@@ -32,11 +32,21 @@ rechts das Gerät ist der eigentliche Drucker<br>
 Auf der rechten Seite sind der Hauptschalter und der USB-Slot. Die Daten für den Drucker werden per USB übertragen<br>
 vorne befindet sich das Bedienpanel (Touchpanel)<br>
 <br>
-Das Druckbett besteht aus einer gelaserten Stahlplatte die mit der Rändelschraube befestigt und gelöst werden kann. Mit den seitlichen 4 Schrauben wird die Aufnahmeplatte auf den Druckerboden ausgerichtet. Bitte nicht ohne Not an diesen Schrauben drehen, sondern das Druckbett immer nur mit der Rändelschraube lösen und entnehmen.<br>
+Das Druckbett besteht aus einer gelaserten Stahlplatte die mit der Rändelschraube befestigt und gelöst werden kann. Mit den seitlichen 4 Schrauben wird das Druckbett auf den Druckerboden ausgerichtet. <b>Bitte nicht ohne Not an diesen Schrauben drehen, sondern das Druckbett immer nur mit der Rändelschraube lösen und entnehmen.<b><br>
 Der Resin-Tank wird mit den beiden seitlichen Rändelschrauben fixiert und gelöst. Bitte äußerst vorschichtig lösen, der Boden des Tanks besteht aus einer empfindlichen gespannten Kunststofffolie.<br>
 
 ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/8564bbf8-2598-436a-9f87-0dad66c61348)
 
+ Drucken:<br>
+  blaue Haube hochheben und auf die Seite stellen<br>
+  USB-Stick mit den Daten einstecken<br>
+  Hauptschalter anschalten<br>
+  <br>
+  Im Bedienpanel erscheint das Hauptmenü>br>
+  ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/d1b7887b-b49a-4d38-b2d8-b7b292b17c1b)
+hier das Menü "Tools" auswählen<br>
+  
+  
 
 
 
