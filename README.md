@@ -73,10 +73,10 @@ Empfohlene Waschzeiten mit Alkohol:
 kleine Modelle (<=64mmx40mmx80mm): <= 2min
 mittlere Modelle (<=96mmx60mmx122mm) 2min
 größere Modelle: 2-4min
-länger als 4mm sollte nicht in Alkohol gewaschen werden
+länger als 4mm sollte nicht in Alkohol gewaschen werden. Wenn nach dem Aushärten weiße Schuppen sichtbar sind, dann wurde entweder zu Kurz gewaschen oder das Iso-Prop ist zu stark verunreinigt
 
 Nachhärten:
-Anhaltspunkt: 2min
+Anhaltspunkt: 2min-20min
 das muss bei hellen und transparten Materialien vorher unbedingt ausprobiert werden da diese zum vergilben neigen.
 Das Waschen kann ohne die gelbe Haube erfolgen, beim Aushärten muss diese unbedingt aufgesetzt werden sonst schaltet eine Sicherheitsvorrichtung den UV-Strahler nicht an.
 
