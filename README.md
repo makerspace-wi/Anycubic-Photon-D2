@@ -2,6 +2,7 @@
 ## 1. Sicherheitshinweise
 - die Harze können Hautirritationen verursachen daher wird das Tragen von Einweghandschuhen empfohlen<br>
 - es wird das Tragen einer Schutzbrille beim Einfüllen von Flüssigkeiten (Harz oder Isopropanol) empfohlen<br>
+- <b>Achtung: nicht ausgehärtetes Resin ist extrem giftig für die Umwelt. Daher auch Zewa-tücher und Einweg handschuhe nicht einfach im Restmüll entsorgen. Das Material einfach mehrere Tage ins freie Legen, dannach ist der Resin aus gehärtet und ungefährlich das Material kann entsorgt werden.</b>
 - 
 
 ## 2. Vorhanden Geräte
