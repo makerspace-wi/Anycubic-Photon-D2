@@ -104,4 +104,10 @@ Surface Frosted: x<br>
 Vorhanden ist grau, bestellt habe ich schwarz/weiß/transparent/ grau<br>
 
 
+Aushärtezeiten:<br>
+
+kleine Objekte 2-5min<br>
+große Objekte 5-20min<br>
+transparente Objekte  1-2min<br>
+
 
