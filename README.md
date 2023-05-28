@@ -116,4 +116,8 @@ iso-prop reinigen:<br>
 in eine transparente Flasche füllen, aushärten und Filtern
 GGf 2stufiges Reinigen einsetzen<br>
 
+Quellen:<br>
+3d printer bee
+Anleitungen auf dem stick
+
 
