@@ -109,6 +109,10 @@ Aushärtezeiten:<br>
 kleine Objekte 2-5min<br>
 große Objekte 5-20min<br>
 transparente Objekte  1-2min<br>
-Ist der Druck glänzend oder sieht gar nass aus, dann ist er noch nicht komplett ausgehärtet. Ein ausgehärteter Druck sieht leicht matt aus.
+Ist der Druck glänzend oder sieht gar nass aus, dann ist er noch nicht komplett ausgehärtet. Ein ausgehärteter Druck sieht leicht matt aus.<br>
+
+iso-prop reinigen:<br>
+in eine transparente Flasche füllen, aushärten und Filtern
+GGf 2stufiges Reinigen einsetzen<br>
 
 
