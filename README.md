@@ -2,7 +2,7 @@
 ## 1. Sicherheitshinweise
 - die Harze können Hautirritationen verursachen daher wird das Tragen von Einweghandschuhen empfohlen<br>
 - es wird das Tragen einer Schutzbrille beim Einfüllen von Flüssigkeiten (Harz oder Isopropanol) empfohlen<br>
-- <b>Achtung: nicht ausgehärtetes Resin ist extrem giftig für die Umwelt. Daher auch Zewa-tücher und Einweg handschuhe nicht einfach im Restmüll entsorgen. Das Material einfach mehrere Tage ins freie Legen, dannach ist der Resin aus gehärtet und ungefährlich das Material kann entsorgt werden.</b>
+- <b>Achtung: nicht ausgehärtetes Resin ist extrem giftig für die Umwelt. Daher auch Papiertücher und Einweghandschuhe nicht einfach im Restmüll entsorgen. Am besten ist es, das verschmutzte Reinigungsmaterial in einer Tüte sammeln und mitnehmen. Zuhause dann das Material einfach mehrere Tage ins freie legen. Dannach ist der Resin aus gehärtet und das Material kann im Hausmüll entsorgt werden.</b>
 - der Anycubic darf nicht ausgeschaltet oder vom Netz genommen werden wenn noch ein Druck läuft !<br>
 - 
 
@@ -68,7 +68,9 @@ Nach Beedigung des Druckes fährt das Druckbett komplett nach oben und der Druck
 Nach dem Abtropfen kann die Druckplatte an der Rändelschraube gelöst werden und der Druck, zusammen mit der Druckplatte kann in den Washer.
 
 ## 5.Bedienung Wasch- und Aushärtegerät
-Durch Drücken auf den linken Knopf wird zwischen Waschen (Wash) 
+Durch Drücken auf den linken Knopf wird zwischen Waschen (Wash) und härten (cure) auswählen. 
+Waschen:
+Die gedruckten Teile (mit oder ohne Druckplatte) in den Drahtkorb vom Isopropanolbehälter legen oder hängen. ACHTUNG bei Kleinteilen, die Öffnungen im Drahtkorb sind 18mm groß. Kleine Teile daher unbedingt auf der Druckplatte lassen. Sie können sonst in den Rührer fallen und das Gerät beschädigen. Den Isopropanolbehälter dann auf die Aussparung vom Gerät setzen. Gegebenenfalls muss der Drehteller vorher entfernt werden. 
 Empfohlene Waschzeiten mit Alkohol:<br>
 kleine Modelle (<=64mmx40mmx80mm): <= 2min<br>
 mittlere Modelle (<=96mmx60mmx122mm) 2min<br>
@@ -77,7 +79,7 @@ länger als 4mm sollte nicht in Alkohol gewaschen werden. Wenn nach dem Aushärt
 Nach dem Waschen wird das Model vorsichtig mit der Spachtel (liegt in der linken oberen Schublade) von der Druckplatte getrennt. Nach dem Trennen an der Luft trocknen lassen. Anschließend können mit Pinzette und kleiner Zange die ggf. vorhandenen Stützen entfernt werden.
 
 <b>Nachhärten:</b>
-zum Nachhärten muss der Druck vollständig an Luft getrocknet sein
+zum Nachhärten muss der Druck vollständig an Luft getrocknet sein<br>
 Anhaltspunkt: 2min-20min<br>
 kleine Objekte 2-5min<br>
 große Objekte 5-20min<br>
