@@ -71,7 +71,14 @@ Nach dem Abtropfen kann die Druckplatte an der Rändelschraube gelöst werden un
 <br>
 ### 4.3 Drucker reinigen<br>
 Der Drucker muss nach Beendigung des Druckes geleert und gereinigt werden. Das Harz kann nicht im der Wanne bleiben, es hat sich gezeigt dass die Sonneneinstrahlung im 3-D Druckraum zu stark ist. Das Resin in der Wanne ist bereits nach mehreren Stunden ausgehärtet.
-Die Wanne wird an den beiden Rändelschrauben gelöst und das Resin mit den Trichter plus einen Papierfilter in die entsprechende Flasche zurückgeschüttet. <b> Bitte unbedingt darauf achten, dass ihr die richtige Flasche nehmt</b>. Die Wanne solange über den Trichter/Filter abtropfen lassen, bis der Resin-Film vom Wannenboden komplett abgelaufen ist. Aufgrund der hohen Oberflächenspannung vom Wannenboden geht das sehr gut, dauert nur ein bisschen. Anschließend kann man die Wanne senkrecht in dem Korb vom Reinigungsgerät stellen und dort reinigen. Da die Wanne nur zur Hälfte im Isoprobanol steht, nach ca. 3min Reinigung den Korb um 180 grad drehen und nochmal ca. 3min reinigen. Nach dem Abtropfen vom Isopropanol muss geprüft werden ob es Anhaftungen vom Druck am Wannenboden gibt. Ist das der Fall, muss dieser ganz vorsichtig mit dem Kunststoffschaber entfernt werden.
+Die Wanne wird an den beiden Rändelschrauben gelöst und das Resin mit den Trichter plus einen Papierfilter in die entsprechende Flasche zurückgeschüttet. <b> Bitte unbedingt darauf achten, dass ihr die richtige Flasche nehmt</b>. 
+![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/4c5010d1-b2be-4cfa-b822-d61a7261fd3c)
+<br>
+
+
+
+
+Die Wanne solange über den Trichter/Filter abtropfen lassen, bis der Resin-Film vom Wannenboden komplett abgelaufen ist. Aufgrund der hohen Oberflächenspannung vom Wannenboden geht das sehr gut, dauert nur ein bisschen. Anschließend kann man die Wanne senkrecht in dem Korb vom Reinigungsgerät stellen und dort reinigen. Da die Wanne nur zur Hälfte im Isoprobanol steht, nach ca. 3min Reinigung den Korb um 180 grad drehen und nochmal ca. 3min reinigen. Nach dem Abtropfen vom Isopropanol muss geprüft werden ob es Anhaftungen vom Druck am Wannenboden gibt. Ist das der Fall, muss dieser ganz vorsichtig mit dem Kunststoffschaber entfernt werden.
 
 ## 5.Bedienung Wasch- und Aushärtegerät
 Durch Drücken auf den linken Knopf wird zwischen Waschen (Wash) und härten (cure) auswählen. 
