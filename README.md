@@ -91,7 +91,7 @@ Das Waschen kann ohne die gelbe Haube erfolgen, beim Aushärten muss diese unbed
 Die Wasch und Härtemaschine kann natürlich auch gut zum Reinigen des Resinbehälters und der Druckplattform genutzt werden. 
 
 
-## 7.Druckerreinigung
+## 6.Druckerreinigung
 Es empfiehlt sich die Drucke zusammen mit der Druckplatte in den Korb vom im Wasch- und Härtegerät zu hängen, dann ist die Druckplatte gleich sauber.  Den Resintank mit den zwei Rändelschrauben lösen
 
 
@@ -109,7 +109,26 @@ Retract Speed: 3mm/se<br>
 Antialiasing Level: 16<br>
 Surface Frosted: x<br>
 <br>
-Vorhanden ist grau, bestellt habe ich schwarz/weiß/transparent/ grau<br>
+Vorhanden ist grau,schwarz,weiß,transparent klar,grau, blau transparent, schwarz transparent<br>
+diese Resins sind auch im Photoshop Workshop unter "Machine / Resin" bereits mit passenden Parametern hinterlegt. 
+Bei neuen Resins müssen die Parameter entweder recherchiert oder ermittelt werden.
+Hierzu darauf achten, dass wir die Parameter für einen DLP Drucker monochrom brauchen
+![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/cd69149a-fabb-49d5-95f1-db3c44fd6aca)<br>
+Bei den DLP Druckern wird ein Projektor verwendet um eine ganze Schicht auf einmal zu belichten, der Drucker ist damit viel schneller als ein SLA mit Laser und benötigt die entsprechende Belichtungszeit
+Parameter:
+<b>layer height</b> ist die Höhe einer einzelnen Schicht. Standardwert ist hier 0,05mm. Werden mehr Details benötigt kann man bis auf 0,01mm herunter gehen, das verlängert natürlich die Druckzeit erheblich. Unter 0,025 ist die verbesserte Auflösung aber kaum noch zu erkennen.
+<b> Exposure Time</b>
+Belichtungszeit für eine Schicht. Die ist von vielen Faktoren abhängig: Hersteller, Material, Transparenz usw. Die Belichtungszeiten für die vorhandenen Harze sind bei uns im Programm Photon Workshop hinterlegt. Ein guter Bereich für den D2 sind 1sec-3sec. Für neue Harze empfielt es sich Belichtungsproben zu machen. Wie das geht ist in der Anleitung zum Photon Workshop beschrieben.
+<b>Light off Time</b>
+Die Zeit zwischen zwei Belichtungen, hier ist eine Sekunde ein guter Wert
+<b>Bottom Layer Count</b>
+Das sind die ersten Schichten mit denen das Objekt an der Druckplatte hängt. Dies Schichten werden deutlich länger belichtet. Vier bis 6 Bottom Layer ist ein guter Wert für die Anzahl der ersten Schichten.
+<b>Botoom Layer Exposure Time</b>
+Wie oben schon erwähnt, diese Layer werden deutlich länger belichtet, ein guter Startwert sind 30 Sekunden oder 8-10x die Standardbelichtungszeit. Wird zu kurz belichtet, fällt das Objekt beim Druck von der Plattform.
+<lifting distance>
+
+
+
 
 
 
