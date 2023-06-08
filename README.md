@@ -17,6 +17,8 @@ rechts das Gerät ist der eigentliche Drucker<br>
 
 ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/92d574fc-f1d7-408b-8994-8d4bbd0884aa)
 <br>
+Das gesamte Zubehör zu den Geräten befindet sich in der obersten Schublade, direkt unter dem Drucker. Die Ersatzteile befinden sich in der 2. Schublade von unten (Ersatzfolie für den Wannenboden). Die verschiedenen Resine befinden sich in der lichtdichten Kühlbox rechts neben dem 3D-Drucker-PC. Bitte erstmal prüfen was da ist bevor neues Resin gekauft wird. Das Resin hat nur eine beschränkte Haltbarkeit. Abgerechnet wird das Resin nach Verbrauch. Der Slicer gibt ja recht genau die Menge an verbrauchtem Resin an. Der Liter kostet ca. 30 Euro, bitte dann den entsprechenden Betrag in die Spendendose links am PC stecken.
+
 ## 3. Technische Daten
 <b>Anycubic Photon D2 Drucker:</b><br>
   - Bauvolumen: 131mm x 73mm x 165mm <br>
@@ -65,7 +67,11 @@ Dort dann "Print" auswählen<br>, die gewünschte Datei auswählen und die "Play
 ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/5c9e8aba-3135-492e-b076-1c6f6021f47c)<br>
 Der Drucker beginnt dann zu drucken und gibt im Bildschirm die verbleibende Zeit aus.<br>
 Nach Beedigung des Druckes fährt das Druckbett komplett nach oben und der Druck kann abtropfen.<br>
-Nach dem Abtropfen kann die Druckplatte an der Rändelschraube gelöst werden und der Druck, zusammen mit der Druckplatte kann in den Washer.
+Nach dem Abtropfen kann die Druckplatte an der Rändelschraube gelöst werden und der Druck, zusammen mit der Druckplatte kann in den Washer.<br>
+<br>
+### 4.3 Drucker reinigen<br>
+Der Drucker muss nach Beendigung des Druckes geleert und gereinigt werden. Das Harz kann nicht im der Wanne bleiben, es hat sich gezeigt dass die Sonneneinstrahlung im 3-D Druckraum zu stark ist. Das Resin in der Wanne ist bereits nach mehreren Stunden ausgehärtet.
+Die Wanne wird an den beiden Rändelschrauben gelöst und das Resin mit den Trichter plus einen Papierfilter in die entsprechende Flasche zurückgeschüttet. <b> Bitte unbedingt darauf achten, dass ihr die richtige Flasche nehmt</b>. Die Wanne solange über den Trichter/Filter abtropfen lassen, bis der Resin-Film vom Wannenboden komplett abgelaufen ist. Aufgrund der hohen Oberflächenspannung vom Wannenboden geht das sehr gut, dauert nur ein bisschen. Anschließend kann man die Wanne senkrecht in dem Korb vom Reinigungsgerät stellen und dort reinigen. Da die Wanne nur zur Hälfte im Isoprobanol steht, nach ca. 3min Reinigung den Korb um 180 grad drehen und nochmal ca. 3min reinigen. Nach dem Abtropfen vom Isopropanol muss geprüft werden ob es Anhaftungen vom Druck am Wannenboden gibt. Ist das der Fall, muss dieser ganz vorsichtig mit dem Kunststoffschaber entfernt werden.
 
 ## 5.Bedienung Wasch- und Aushärtegerät
 Durch Drücken auf den linken Knopf wird zwischen Waschen (Wash) und härten (cure) auswählen. 
@@ -90,14 +96,8 @@ Das Waschen kann ohne die gelbe Haube erfolgen, beim Aushärten muss diese unbed
 
 Die Wasch und Härtemaschine kann natürlich auch gut zum Reinigen des Resinbehälters und der Druckplattform genutzt werden. 
 
-
-## 6.Druckerreinigung
-Es empfiehlt sich die Drucke zusammen mit der Druckplatte in den Korb vom im Wasch- und Härtegerät zu hängen, dann ist die Druckplatte gleich sauber.  Den Resintank mit den zwei Rändelschrauben lösen
-
-
-
 ## 7.Basisparameter für das Anycubic Basic UV Resin<br>
-Resin: Anycubic colored UV Resin Basic<br>
+Resin: Anycubic colored UV Resin Basic Farbe grau<br>
 Layer Height: 0,05mm<br>
 Exposure Time: 2,8sec<br>
 Light Off Time: 1s<br>
@@ -110,26 +110,34 @@ Antialiasing Level: 16<br>
 Surface Frosted: x<br>
 <br>
 Vorhanden ist grau,schwarz,weiß,transparent klar,grau, blau transparent, schwarz transparent<br>
-diese Resins sind auch im Photoshop Workshop unter "Machine / Resin" bereits mit passenden Parametern hinterlegt. 
-Bei neuen Resins müssen die Parameter entweder recherchiert oder ermittelt werden.
-Hierzu darauf achten, dass wir die Parameter für einen DLP Drucker monochrom brauchen
+Diese Resins sind auch im Photoshop Workshop unter "Machine / Resin" bereits mit passenden Parametern hinterlegt.<br>
+Bei neuen Resins müssen die Parameter entweder recherchiert oder ermittelt werden.<br>
+Hierzu darauf achten, dass wir die Parameter für einen DLP Drucker monochrom brauchen <br>
+<br>
 ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/cd69149a-fabb-49d5-95f1-db3c44fd6aca)<br>
-Bei den DLP Druckern wird ein Projektor verwendet um eine ganze Schicht auf einmal zu belichten, der Drucker ist damit viel schneller als ein SLA mit Laser und benötigt die entsprechende Belichtungszeit
-Parameter:
-<b>layer height</b> ist die Höhe einer einzelnen Schicht. Standardwert ist hier 0,05mm. Werden mehr Details benötigt kann man bis auf 0,01mm herunter gehen, das verlängert natürlich die Druckzeit erheblich. Unter 0,025 ist die verbesserte Auflösung aber kaum noch zu erkennen.
-<b> Exposure Time</b>
-Belichtungszeit für eine Schicht. Die ist von vielen Faktoren abhängig: Hersteller, Material, Transparenz usw. Die Belichtungszeiten für die vorhandenen Harze sind bei uns im Programm Photon Workshop hinterlegt. Ein guter Bereich für den D2 sind 1sec-3sec. Für neue Harze empfielt es sich Belichtungsproben zu machen. Wie das geht ist in der Anleitung zum Photon Workshop beschrieben.
-<b>Light off Time</b>
-Die Zeit zwischen zwei Belichtungen, hier ist eine Sekunde ein guter Wert
-<b>Bottom Layer Count</b>
-Das sind die ersten Schichten mit denen das Objekt an der Druckplatte hängt. Dies Schichten werden deutlich länger belichtet. Vier bis 6 Bottom Layer ist ein guter Wert für die Anzahl der ersten Schichten.
-<b>Botoom Layer Exposure Time</b>
+Bei den DLP Druckern wird ein Projektor verwendet um eine ganze Schicht auf einmal zu belichten, der Drucker ist damit viel schneller als ein SLA mit Laser und benötigt die entsprechende Belichtungszeit.<br>
+<b>Parameter:</b>
+<b>layer height</b><br> ist die Höhe einer einzelnen Schicht. Standardwert ist hier 0,05mm. Werden mehr Details benötigt kann man bis auf 0,01mm herunter gehen, das verlängert natürlich die Druckzeit erheblich. Unter 0,025 ist die verbesserte Auflösung aber kaum noch zu erkennen.<br>
+<b> Exposure Time</b><br>
+Belichtungszeit für eine Schicht. Die ist von vielen Faktoren abhängig: Hersteller, Material, Transparenz usw. Die Belichtungszeiten für die vorhandenen Harze sind bei uns im Programm Photon Workshop hinterlegt. Ein guter Bereich für den D2 sind 1sec-3sec. Für neue Harze empfielt es sich Belichtungsproben zu machen. Wie das geht ist in der Anleitung zum Photon Workshop beschrieben.<br>
+<b>Light off Time</b><br>
+Die Zeit zwischen zwei Belichtungen, hier ist eine Sekunde ein guter Wert<br>
+<b>Bottom Layer Count</b><br>
+Das sind die ersten Schichten mit denen das Objekt an der Druckplatte hängt. Dies Schichten werden deutlich länger belichtet. Vier bis 6 Bottom Layer ist ein guter Wert für die Anzahl der ersten Schichten.<br>
+<b>Botoom Layer Exposure Time</b><br>
 Wie oben schon erwähnt, diese Layer werden deutlich länger belichtet, ein guter Startwert sind 30 Sekunden oder 8-10x die Standardbelichtungszeit. Wird zu kurz belichtet, fällt das Objekt beim Druck von der Plattform.
-<lifting distance>
+<b>lifting distance</b><br>
 
 
 
 
+## 9. Tipps und Tricks<br>
+  ### 9.1 Transparentes Resin glänzend bekommen<br>
+  Bei dem üblichen Nacharbeiten (Reinigen mit Isoprop und dann Nachhärten) wird das Resin matt. Bei transparenten Objekten ist manchmal jedoch ein gewisser Glanz wünschenswert. Ist das der Fall, kann man ein umgedrehtes Verfahren probieren.<br>
+  #1. mehrere Minuten abtropfen lassen und darauf achten dass keine Tropfen am Model hängen bleiben<br>
+  #2. 15 Minuten in der Aushärtestation aushärten<br>
+  #3.4 Minuten im Isopropanol reinigen
+ 
 
 
 
