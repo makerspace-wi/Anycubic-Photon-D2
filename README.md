@@ -72,12 +72,10 @@ Nach dem Abtropfen kann die Druckplatte an der Rändelschraube gelöst werden un
 ### 4.3 Drucker reinigen<br>
 Der Drucker muss nach Beendigung des Druckes geleert und gereinigt werden. Das Harz kann nicht im der Wanne bleiben, es hat sich gezeigt dass die Sonneneinstrahlung im 3-D Druckraum zu stark ist. Das Resin in der Wanne ist bereits nach mehreren Stunden ausgehärtet.
 Die Wanne wird an den beiden Rändelschrauben gelöst und das Resin mit den Trichter plus einen Papierfilter in die entsprechende Flasche zurückgeschüttet. <b> Bitte unbedingt darauf achten, dass ihr die richtige Flasche nehmt</b>. 
+<br>
+<br>
 ![image](https://github.com/makerspace-wi/Anycubic-Photon-D2/assets/126797902/4c5010d1-b2be-4cfa-b822-d61a7261fd3c)
 <br>
-
-
-
-
 Die Wanne solange über den Trichter/Filter abtropfen lassen, bis der Resin-Film vom Wannenboden komplett abgelaufen ist. Aufgrund der hohen Oberflächenspannung vom Wannenboden geht das sehr gut, dauert nur ein bisschen. Anschließend kann man die Wanne senkrecht in dem Korb vom Reinigungsgerät stellen und dort reinigen. Da die Wanne nur zur Hälfte im Isoprobanol steht, nach ca. 3min Reinigung den Korb um 180 grad drehen und nochmal ca. 3min reinigen. Nach dem Abtropfen vom Isopropanol muss geprüft werden ob es Anhaftungen vom Druck am Wannenboden gibt. Ist das der Fall, muss dieser ganz vorsichtig mit dem Kunststoffschaber entfernt werden.
 
 ## 5.Bedienung Wasch- und Aushärtegerät
@@ -134,7 +132,11 @@ Das sind die ersten Schichten mit denen das Objekt an der Druckplatte hängt. Di
 <b>Botoom Layer Exposure Time</b><br>
 Wie oben schon erwähnt, diese Layer werden deutlich länger belichtet, ein guter Startwert sind 30 Sekunden oder 8-10x die Standardbelichtungszeit. Wird zu kurz belichtet, fällt das Objekt beim Druck von der Plattform.
 <b>lifting distance</b><br>
-
+Der Hubweg gibt an, wie hoch die Bauplatte angehoben wird, nachdem jede Schicht ausgehärtet ist. Sie hängt mit der Hubgeschwindigkeit zusammen und ist ebenso wichtig, um Schäden an den schwächeren Bereichen des Modells beim Anheben zu minimieren.<br>
+<br>
+Der Hubweg sollte hoch genug sein, damit genügend ungehärtetes Harz in den neu gebildeten Spalt fließen kann, aber nicht so hoch, dass die Druckzeiten unnötig verlängert werden. Ein guter Wert ist hier 5mm. Bei kleinen Schichtflächen kann dieser Wert sogar auf bis zu 4 mm reduziert werden. weil nicht so viel Harz die Lücke füllen muss. Wenn die Schichtflächen groß sind, kann man auch 6 mm verwenden.
+<b>Lifting Speed</b><br>
+Die Abziehgeschwindigkeit gibt an mit welcher Kraft/Geschwindigkeit sich der Druck von der Folie löst. Je größer die Geschwindigkeit umso schneller ist der Druck. Aber empfindliche Teile können dann abgerissen werden. 2mm/s ist hier ein guter Wert.
 
 
 
