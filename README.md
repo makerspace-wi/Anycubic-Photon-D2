@@ -80,26 +80,34 @@ Die Wanne solange über den Trichter/Filter abtropfen lassen, bis der Resin-Film
 
 ## 5.Bedienung Wasch- und Aushärtegerät
 Durch Drücken auf den linken Knopf wird zwischen Waschen (Wash) und härten (cure) auswählen. 
-Waschen:
+<b>Waschen:</b><br>
 Die gedruckten Teile (mit oder ohne Druckplatte) in den Drahtkorb vom Isopropanolbehälter legen oder hängen. ACHTUNG bei Kleinteilen, die Öffnungen im Drahtkorb sind 18mm groß. Kleine Teile daher unbedingt auf der Druckplatte lassen. Sie können sonst in den Rührer fallen und das Gerät beschädigen. Den Isopropanolbehälter dann auf die Aussparung vom Gerät setzen. Gegebenenfalls muss der Drehteller vorher entfernt werden. 
 Empfohlene Waschzeiten mit Alkohol:<br>
+<b>Standard oder Basisresins von Anycubic / 3DJake</b><br>
 kleine Modelle (<=64mmx40mmx80mm): <= 2min<br>
 mittlere Modelle (<=96mmx60mmx122mm) 2min<br>
 größere Modelle: 2-4min<br>
-länger als 4mm sollte nicht in Alkohol gewaschen werden. Wenn nach dem Aushärten weiße Schuppen sichtbar sind, dann wurde entweder zu Kurz gewaschen oder das Iso-Prop ist zu stark verunreinigt<br>
+länger als 4min sollten diese Resins nicht in Alkohol gewaschen werden.<br>
+<b>FormFutura Platinum LCD Serie</b><br>
+Dieses Resin sollte mindestens 5min im Isopropanol gewaschen werden<br>
+Wenn nach dem Aushärten weiße Schuppen sichtbar sind, dann wurde entweder zu Kurz gewaschen oder das Iso-Prop ist zu stark verunreinigt<br>
 Nach dem Waschen wird das Model vorsichtig mit der Spachtel (liegt in der linken oberen Schublade) von der Druckplatte getrennt. Nach dem Trennen an der Luft trocknen lassen. Anschließend können mit Pinzette und kleiner Zange die ggf. vorhandenen Stützen entfernt werden.
 
 <b>Nachhärten:</b>
 zum Nachhärten muss der Druck vollständig an Luft getrocknet sein<br>
-Anhaltspunkt: 2min-20min<br>
+<b>Anhaltspunkt Standard Resins von Anycubic oder 3DJake:</b><br>
+2min-20min<br>
 kleine Objekte 2-5min<br>
 große Objekte 5-20min<br>
 transparente Objekte  1-2min<br>
+<b>FormFutura Platiunum LCD Series:</b><br>
+Je nach Größe 20min-30min<br>
+
 Ist der Druck glänzend oder sieht gar nass aus, dann ist er noch nicht komplett ausgehärtet. Ein ausgehärteter Druck sieht leicht matt aus.<br>
 Die Nachhärtezeit muss bei hellen und transparten Materialien vorher unbedingt ausprobiert werden da diese zum vergilben neigen.
 Das Waschen kann ohne die gelbe Haube erfolgen, beim Aushärten muss diese unbedingt aufgesetzt werden sonst schaltet eine Sicherheitsvorrichtung den UV-Strahler nicht an.<br>
 
-Die Wasch und Härtemaschine kann natürlich auch gut zum Reinigen des Resinbehälters und der Druckplattform genutzt werden. 
+Die Wasch und Härtemaschine kann natürlich auch gut zum Reinigen des Resinbehälters und der Druckplattform genutzt werden.<br>
 
 ## 7.Basisparameter für das Anycubic Basic UV Resin<br>
 Resin: Anycubic colored UV Resin Basic Farbe grau<br>
